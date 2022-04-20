@@ -12,7 +12,7 @@ https://www.archimatetool.com/plugins/
 
 4. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
 
-#Адреса архитектурных моделей
+# Адреса архитектурных моделей
 
 ### Трансформация Зерде
 https://github.com/ICTHoldingZERDE/transformation
@@ -26,7 +26,7 @@ https://github.com/ICTHoldingZERDE/its
 ### Архитектура государства
 https://github.com/ICTHoldingZERDE/govarch
 
-#Адреса архитектурных моделей для новых пользователей
+# Адреса архитектурных моделей для новых пользователей
 
 ### Трансформация Зерде
 https://github.com/ICTHoldingZERDE/transformation/invitations
