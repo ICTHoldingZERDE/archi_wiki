@@ -13,3 +13,7 @@ https://forum.archimatetool.com/index.php?topic=980.0
 
 ### Share Archi Model
 https://forum.archimatetool.com/index.php?topic=971.0
+
+### Large models taking long time to sync
+https://forum.archimatetool.com/index.php?topic=962.0
+
