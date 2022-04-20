@@ -1,13 +1,13 @@
-## Трансформация Зерде
+### Трансформация Зерде
 https://github.com/ICTHoldingZERDE/transformation/invitations
 
-## НИТ
+### Трансформация НИТ
 https://github.com/ICTHoldingZERDE/nit-transformation/invitations
 
-## ИТС МИИР
+### ИТС МИИР
 https://github.com/ICTHoldingZERDE/its/invitations​
 
-## Архитектура государства (пока пустой - для драфта Рустема завел)
+### Архитектура государства
 https://github.com/ICTHoldingZERDE/govarch/invitations
 
 #Установка Archi
