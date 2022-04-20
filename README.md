@@ -10,7 +10,7 @@ https://github.com/ICTHoldingZERDE/its/invitations​
 ### Архитектура государства
 https://github.com/ICTHoldingZERDE/govarch/invitations
 
-#Установка Archi
+# Установка Archi
 
 1. Установить Archi
 
