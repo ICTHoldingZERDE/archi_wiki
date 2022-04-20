@@ -10,3 +10,6 @@ https://forum.archimatetool.com/index.php?topic=1037.0
 ### Модель после слияния не публикуется в репозитории до тех пор, пока не будет сделана другая новая фиксация
 
 https://forum.archimatetool.com/index.php?topic=980.0
+
+### Share Archi Model
+https://forum.archimatetool.com/index.php?topic=971.0
