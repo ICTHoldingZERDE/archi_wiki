@@ -22,6 +22,4 @@ https://www.archimatetool.com/plugins/
 
 3. Зарегистрироваться на github.com
 
-4. Направить мне свой логин на github.com
-
-Дальше сообщить мне о завершении. Далее я настрою на компьютере.
+4. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
