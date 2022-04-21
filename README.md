@@ -26,7 +26,7 @@ https://github.com/ICTHoldingZERDE/its
 ### Архитектура государства
 https://github.com/ICTHoldingZERDE/govarch
 
-# Адреса архитектурных моделей для новых пользователей
+# Адреса архитектурных моделей для новых пользователей (приглашения)
 
 ### Трансформация Зерде
 https://github.com/ICTHoldingZERDE/transformation/invitations
