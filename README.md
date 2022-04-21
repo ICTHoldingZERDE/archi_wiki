@@ -8,9 +8,13 @@ https://www.archimatetool.com/download/
 
 https://www.archimatetool.com/plugins/
 
-3. Зарегистрироваться на github.com
+3. Зайти в настройки Edit - Preferences - Collaboration и заполнить Name и Email.
 
-4. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
+4. Зарегистрироваться на github.com
+
+5. Сгенерировать усиленный пароль по ссылке https://github.com/settings/tokens
+
+6. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
 
 # Адреса архитектурных моделей
 
