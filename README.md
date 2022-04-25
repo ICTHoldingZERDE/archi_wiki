@@ -18,15 +18,15 @@ https://www.archimatetool.com/plugins/
 7. Добавить в файл .gitconfig (находится в C:\Users\{наименование учетной записи}) следующий код:
 
 `[filter "lfs"]
-    process = git-lfs filter-process
-    required = true
-    clean = git-lfs clean -- %f
-    smudge = git-lfs smudge -- %f
-[https]
-    sslVerify = false
-[http]
-    sslVerify = false
-`
+    `process = git-lfs filter-process
+    `required = true
+    `clean = git-lfs clean -- %f
+    `smudge = git-lfs smudge -- %f
+`[https]
+    `sslVerify = false
+`[http]
+    `sslVerify = false
+    
 # Адреса архитектурных моделей
 
 ### Трансформация Зерде
