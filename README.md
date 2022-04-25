@@ -17,7 +17,7 @@ https://www.archimatetool.com/plugins/
 6. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
 7. Добавить в файл .gitconfig (находится в C:\Users\{наименование учетной записи}) следующий код:
 
-[filter "lfs"]
+`[filter "lfs"]
     process = git-lfs filter-process
     required = true
     clean = git-lfs clean -- %f
@@ -26,7 +26,7 @@ https://www.archimatetool.com/plugins/
     sslVerify = false
 [http]
     sslVerify = false
-
+`
 # Адреса архитектурных моделей
 
 ### Трансформация Зерде
