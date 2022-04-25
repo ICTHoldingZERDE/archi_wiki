@@ -15,7 +15,7 @@ https://www.archimatetool.com/plugins/
 5. Сгенерировать усиленный пароль по ссылке https://github.com/settings/tokens
 
 6. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
-7. Добавить в файл .gitconfig (находится в C:\Users\{наименование учетной записи}) следующий код:
+7. Добавить в файл .gitconfig (находится в C:\Users\\{наименование учетной записи}) следующий код:
 
 ```
 [filter "lfs"]
