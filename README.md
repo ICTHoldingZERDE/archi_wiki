@@ -28,7 +28,9 @@ https://www.archimatetool.com/plugins/
 
 6. Сгенерировать усиленный пароль по ссылке https://github.com/settings/tokens
 
-7. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com
+7. Направить на почту mirambek.mustafin@zerde.gov.kz свой логин на github.com для получения приглашений для совместной работы над архитектурными моделями.
+
+## По вопросам настройки Archi и доступа к github.com писать на почту mirambek.mustafin@zerde.gov.kz.
     
 # Адреса архитектурных моделей
 
