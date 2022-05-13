@@ -4,9 +4,13 @@
 
 https://www.archimatetool.com/download/
 
+
 2. Установить CoArchi plugin - плагин для Archi для совместной работы с архитектурными моделями. Устанавливается через меню Help - Manage Plug-ins.
 
 https://www.archimatetool.com/plugins/
+
+![изображение](https://user-images.githubusercontent.com/5103438/168207862-b17f2d83-89b7-4dc3-a0cf-8abf9124273a.png)
+
 
 3. В Archi в настройках в главном меню (Edit - Preferences - Collaboration) заполнить Name и Email (будут использоваться для идентификации сотрудника в журнале изменений архитектурных моделей).
 
