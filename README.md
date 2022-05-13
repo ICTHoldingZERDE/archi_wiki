@@ -34,6 +34,8 @@ https://www.archimatetool.com/plugins/
 [http]
     sslVerify = false
 ```
+![изображение](https://user-images.githubusercontent.com/5103438/168208420-58c1b9f1-dbf8-4ed7-a101-faac6ac24839.png)
+
 
 5. Зарегистрироваться на github.com
 
