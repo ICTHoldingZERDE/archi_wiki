@@ -14,6 +14,9 @@ https://www.archimatetool.com/plugins/
 
 3. В Archi в настройках в главном меню (Edit - Preferences - Collaboration) заполнить Name и Email (будут использоваться для идентификации сотрудника в журнале изменений архитектурных моделей).
 
+![изображение](https://user-images.githubusercontent.com/5103438/168208122-452b3a9f-a6dc-4c41-8c5c-389317f08ce3.png)
+
+
 4. С помощью блокнота (Notepad, Notepad++, VS Code) добавить в файл .gitconfig (находится в C:\Users\\{наименование учетной записи}) следующий код (не затирая имеющийся!):
 
 ```
