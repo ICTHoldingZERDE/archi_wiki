@@ -16,6 +16,10 @@ https://www.archimatetool.com/plugins/
 
 ![изображение](https://user-images.githubusercontent.com/5103438/168208122-452b3a9f-a6dc-4c41-8c5c-389317f08ce3.png)
 
+4. В Проводнике включить отображение скрытых файлов:
+
+![изображение](https://user-images.githubusercontent.com/5103438/168208284-2482d9bf-6b98-4766-a069-e32782ab4ff4.png)
+
 
 4. С помощью блокнота (Notepad, Notepad++, VS Code) добавить в файл .gitconfig (находится в C:\Users\\{наименование учетной записи}) следующий код (не затирая имеющийся!):
 
