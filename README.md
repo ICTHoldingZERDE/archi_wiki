@@ -59,6 +59,11 @@ https://www.archimatetool.com/plugins/
 
 8. Уточните у ответственного лица вашего структурного подразделения наименование проекта, с которым будете работать, и направьте на почту mirambek.mustafin@zerde.gov.kz и kairat.zholboldin@zerde.gov.kz свой **логин** (не почту!!!) на github.com и наименование проекта соответственно для получения приглашений для совместной работы над архитектурными моделями.
 
+Логин указан здесь:
+
+![изображение](https://user-images.githubusercontent.com/5103438/168209199-0098b24f-ed2b-427a-9504-a1eee577fc1e.png)
+
+
 9. После предоставления доступа на почту, указанную при регистрации на github.com, придет соответствующее уведомление. Необходимо принять приглашение и направить запрос на дальнейшую настройку на почту mirambek.mustafin@zerde.gov.kz и kairat.zholboldin@zerde.gov.kz. 
 
 ## По вопросам настройки Archi и доступа к github.com писать на почту mirambek.mustafin@zerde.gov.kz и kairat.zholboldin@zerde.gov.kz.
